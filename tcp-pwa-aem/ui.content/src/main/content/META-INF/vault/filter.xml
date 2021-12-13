@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/tcp-pwa-aem" mode="merge"/>
+    <filter root="/content/tcp-pwa-aem" mode="merge"/>
+    <filter root="/content/dam/tcp-pwa-aem/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/tcp-pwa-aem" mode="merge"/>
+</workspaceFilter>
